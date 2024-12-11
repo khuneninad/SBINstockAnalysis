@@ -1,5 +1,8 @@
 **SBI STOCK ANALYSIS**
 
+**Link of streamlit app :**
+https://sbinstockanalysisteam7.streamlit.app/
+
 **Key Objectives:**
 Understand Stock Performance: Analyze the historical trends in SBI's stock prices, including open, close, high, low, and adjusted close values.
 Volume Analysis: Examine the trading volume to assess market activity and investor sentiment.
