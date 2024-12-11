@@ -14,7 +14,8 @@ Visualization: Create intuitive visualizations to effectively communicate insigh
 1. Pandas
 2. NumPy
 3. streamlit --> for app deployment
-4. matplotlib 
+4. matplotlib
+5. seaborn
 
 **Workflow:**
 1. Data Collection:
